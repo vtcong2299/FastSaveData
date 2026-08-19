@@ -1,0 +1,11 @@
+{
+  "name": "com.trongcong.fast-save-data",
+  "version": "1.0.0",
+  "displayName": "Fast Save Data",
+  "description": "Fast and secure save data system for Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Trong Cong"
+  },
+  "_fingerprint": "861b3e147f78c9f1023a0a0441b0f96dadaf3ce0"
+}
